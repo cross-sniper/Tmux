@@ -1,0 +1,56 @@
+{
+    "ls": {
+        "name": "ls",
+        "description": "Returns the contents of the folder provided, or the current folder."
+    },
+    "cd": {
+        "name": "cd",
+        "description": "Changes the working directory to the provided folder, or to the user's \"home\" directory."
+    },
+    "clear": {
+        "name": "clear",
+        "description": "Clears the console window."
+    },
+    "(...)":{
+        "name":"(...)",
+        "description":"Executes Python code within the parentheses."
+    },
+    "mkdir":{
+        "name":"mkdir",
+        "description":"Creates one or more directories. If multiple names are given, they should not be space-separated or contain backslashes."
+    },
+    "touch":{
+        "name":"touch",
+        "description":"Creates empty files. If multiple file names are given, they should not be space-separated or contain backslashes."
+    },
+    "edit":{
+        "name":"edit",
+        "description":"Opens a simple text editor (work in progress)."
+    },
+    "cat":{
+        "name":"cat",
+        "description":"Outputs the content of the given files."
+    },
+    "open":{
+        "name":"open",
+        "description":"Opens the given HTML/HTM file in the system's default web browser."
+    },
+    "echo": {
+        "name": "echo",
+        "description": "Prints the provided text to the console."
+    },
+    "calc": {
+        "name": "calc",
+        "description": "Performs a simple calculation with the provided expression."
+    },
+    "help":{
+        "name":"help",
+        "description":"outputs the comand's name, and description, like this"
+    },
+    "load_definitions":{
+        "name":"load-definitions",
+        "description":"loads the definitions.json you have"
+    },
+    "run":{"name":"run",
+    "description":"runs the comand given to it"}
+}
