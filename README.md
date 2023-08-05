@@ -2,5 +2,5 @@
 my repo for python/general compiled apps for, and on termux
 
 # manager
-ths package manager is `PyExec`
+the package manager is `PyExec`, do `PyExec install <name>` to download and install said package
 
